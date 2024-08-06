@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
+![MasterHead](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
 
 <h1 align="center">Hi 👋, My name is Ritabrata Patra</h1>
 <h3 align="center">Experienced in MERN, Next.js, with strong skills in Express and Node.js development.</h3>
